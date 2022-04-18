@@ -12,18 +12,14 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color:#ffffff;
 }
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
-
 }
-
-.header h1 .seo {
-    color:#d9dcd6
-}
+/*removed .header h1 .seo color #d9dcd6 */
 
 .header div {
     padding-top: 15px;
@@ -45,7 +41,6 @@ a {
 }
 
 /*deleted p: 16px */  
-
 /*----------------------------------------------*/
 .hero {
     height: 800px;
