@@ -2,9 +2,10 @@
 
 The code did not follow practices.
 
-<title> changed to Horiseon Digital Marketing
+index.html 
+<title> changed to Horiseon Digital Marketing.
 -------------------------------------------------------------------
-
+<header> changed the <div> tag to <header> tag,  
 
 
 
