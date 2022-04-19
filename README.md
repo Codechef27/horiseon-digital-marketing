@@ -4,22 +4,22 @@
 ## HTML Refactores
 
 ## Title
-Changed the <title> to Horiseon Digital Marketing. 
+I Changed the title to Horiseon Digital Marketing. 
 
 ## Header 
-Changed the <div> tag to a <header> tag, deleted the <span> tag & the .seo class and restructured the h1 element.
+I Changed the div element to a header element, deleted the span element & the .seo class, also, I restructured the h1 element.
 
 ## hero
-I changed the <div> tag to a <section> tag. Also, I added alt attribute to img.
+I changed the div element to a section element. Also, I added the alt attribute to the image.
 
 ## Main 
-I changed the <div> tag to a <main> tag, I added alt attribute to the images, I added the id for s.e.o. and changed the <p> tags to simple line </br> tag.
+I changed the div element to a main element, I added the alt attribute to the images, I added the id for s.e.o. and changed the p element to simple line /br element.
 
 ## Benifits
-I added a blank text alt attribute to the images, to be safely ignored, I changed the <div> tags to the <article> & <section> tags. 
+I added a blank text alt attribute to the images, to be safely ignored, I changed the div element to the article & section elements. 
 
 ## Footer
-I changed the <div> tag to a footer tag, also I used a line </br> tag instead of a <p> tag.
+I changed the div element to a footer element, also, I used a line /br element instead of a p element.
 
 ## CSS Refactores 
 
